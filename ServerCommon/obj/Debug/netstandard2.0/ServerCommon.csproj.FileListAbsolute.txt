@@ -1,0 +1,9 @@
+D:\Github\DotNet.Server.Standard\ServerCommon\bin\Debug\netstandard2.0\ServerCommon.deps.json
+D:\Github\DotNet.Server.Standard\ServerCommon\bin\Debug\netstandard2.0\ServerCommon.dll
+D:\Github\DotNet.Server.Standard\ServerCommon\bin\Debug\netstandard2.0\ServerCommon.pdb
+D:\Github\DotNet.Server.Standard\ServerCommon\obj\Debug\netstandard2.0\ServerCommon.csprojAssemblyReference.cache
+D:\Github\DotNet.Server.Standard\ServerCommon\obj\Debug\netstandard2.0\ServerCommon.csproj.CoreCompileInputs.cache
+D:\Github\DotNet.Server.Standard\ServerCommon\obj\Debug\netstandard2.0\ServerCommon.AssemblyInfoInputs.cache
+D:\Github\DotNet.Server.Standard\ServerCommon\obj\Debug\netstandard2.0\ServerCommon.AssemblyInfo.cs
+D:\Github\DotNet.Server.Standard\ServerCommon\obj\Debug\netstandard2.0\ServerCommon.dll
+D:\Github\DotNet.Server.Standard\ServerCommon\obj\Debug\netstandard2.0\ServerCommon.pdb
